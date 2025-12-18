@@ -200,6 +200,28 @@ The dashboard provides actionable insights that support proactive churn preventi
 
 ---
 
+## 📊 Dashboard Preview
+
+### Churn Overview – All Customers
+
+![Churn Dashboard – Overall](Screenshots/Churn-Dashboard-Overall.png)
+
+### Churn Overview – Non‑Churned Customers
+
+![Churn Dashboard – No Churn](Screenshots/Churn-Dashboard-No.png)
+
+### Churn Overview – Churned Customers
+
+![Churn Dashboard – Churned](Screenshots/Churn-Dashboard-Yes.png)
+
+### Customer Risk Analysis
+
+![Customer Risk Analysis](Screenshots/Customer-Risk-Analysis.png)
+
+> Screenshots are included to showcase dashboard layout, KPIs, and interactivity. The live dashboard is available in Power BI Desktop.
+
+---
+
 ### 📌 **Project by:**
 
 **Waiyan Htun**
